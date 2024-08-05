@@ -112,7 +112,7 @@ export const testimonials = [
     title: "Full-Stack dev||team leader",
   },
   {
-    quote: `"Another recommendation: "Working with Bayan has been a fantastic experience. He demonstrated a high level of professionalism in using React.js and provided innovative and quick solutions to the challenges we faced, helping us achieve our goals efficiently."`,
+    quote: `"Working with Bayan has been a fantastic experience. He demonstrated a high level of professionalism in using React.js and provided innovative and quick solutions to the challenges we faced, helping us achieve our goals efficiently."`,
     name: "Muhannad Abdulrahem",
     title: "Senior backend developer ",
   },
