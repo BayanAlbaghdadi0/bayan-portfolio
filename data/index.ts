@@ -1,10 +1,9 @@
-
 export const navItems = [
-  { name: "Home", link: "#home",  },
-  { name: "About", link: "#about", },
-  { name: "Projects", link: "#projects1", },
-  { name: "Testimonials", link: "#testimonials", },
-  { name: "Contact", link: "#contact",  },
+  { name: "Home", link: "#home" },
+  { name: "About", link: "#about" },
+  { name: "Projects", link: "#projects1" },
+  { name: "Testimonials", link: "#testimonials" },
+  { name: "Contact", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -103,6 +102,22 @@ export const projects = [
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/5aledar/Cattery-saas",
+  },
+  {
+    id: 5,
+    title: "Genini",
+    des: "Ai for all you want",
+    img: "/g1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
+    link: "https://github.com/BayanAlbaghdadi0/Gemini-Clone",
+  },
+  {
+    id: 6,
+    title: "Online Store",
+    des: "An online gallery containing many products and categories from all brands with general and specific details about the product with an attractive display method",
+    img: "/po33.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
+    link: "https://github.com/BayanAlbaghdadi0/Online-Store",
   },
 ];
 
